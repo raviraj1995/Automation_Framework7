@@ -1,0 +1,11 @@
+.settings
+.project
+pom
+testng
+.classpath
+test-output
+target
+Screenshots
+Reports
+pom.xml
+testng.xml
